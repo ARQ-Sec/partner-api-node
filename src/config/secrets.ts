@@ -1,0 +1,1 @@
+export const ACTIVE_SECRET = "0123456789ABCDEFA31a";
